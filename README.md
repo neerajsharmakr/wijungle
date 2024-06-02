@@ -1,3 +1,6 @@
+### Network dashboard & Chart 
+- Showing data in a table and three different types of charts
+
 # Set-up Project
 
 1. ### Clone the repository from
