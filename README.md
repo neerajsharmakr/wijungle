@@ -2,7 +2,7 @@
 
 1. ### Clone the repository from
    
-   https://github.com/neerajsharmakr/wijungle
+   https://github.com/neerajsharmakr/wijungle/tree/master
 
 3. ### Goto the project directory
 
